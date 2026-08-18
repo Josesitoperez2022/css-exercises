@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.impar {
+    background-color: #e48e9c;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+.letra-grande {
+    font-size: 24px;
+}
+#four {
+    background-color: #7eec7af9;
+    font-size: 24px;
+    font-weight: bold;
+}
